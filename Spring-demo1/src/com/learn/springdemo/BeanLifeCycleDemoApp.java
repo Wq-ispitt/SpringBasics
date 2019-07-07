@@ -17,7 +17,6 @@ public class BeanLifeCycleDemoApp {
 		System.out.println("memory location for Coach1 :" + Coach1);
 		System.out.println("memory location for Coach2 :" + Coach2 +"\n");
 		
-		
 		context.close();
 
 	}
